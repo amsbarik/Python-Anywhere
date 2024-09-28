@@ -1,0 +1,30 @@
+env/
+node_modules/
+static/
+admin/
+assets/
+# media/
+
+
+
+
+
+
+
+
+# from admin kit 
+# dependencies
+
+
+# production
+/dist
+/_builder
+
+# misc
+.DS_Store
+.vscode/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
